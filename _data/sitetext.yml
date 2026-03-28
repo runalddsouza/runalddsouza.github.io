@@ -1,0 +1,48 @@
+en:
+  nav:
+    - title: "About"
+      section: about
+    - title: "Gaming"
+      section: gaming
+    - title: "Contact"
+      section: contact
+
+  header:
+    title: Hey there!
+    text: 👋
+
+  about:
+    title: "About"
+    text: "My profile"
+    body: |
+      Senior Data Engineer<br>
+      📍 München 🇩🇪<br>
+      ☁️ AWS & Snowflake ❄️<br>
+      ⌨️ Scala, Java, Python
+
+  gaming:
+    title: "Gaming"
+    text: "My setup"
+    body: |
+      i5-12600K<br>
+      CM Hyper 212 RGB<br>
+      32 GB DDR4 3200<br>
+      MSI Suprim RTX 3070 Ti<br>
+      NZXT C750 80+ Gold<br>
+      MasterBox TD500 ARGB
+
+  contact:
+    title: "Contact"
+    text: "Reach out to me via Linkedin"
+
+  footer:
+    legal: "Privacy Policy"
+    social:
+      - url: https://x.com/_runald
+        icon: "fab fa-twitter"
+      - url: https://linkedin.com/in/runald
+        icon: "fab fa-linkedin-in"
+      - url: https://github.com/runalddsouza
+        icon: "fab fa-github"
+      - url: https://runald.medium.com
+        icon: "fab fa-medium"

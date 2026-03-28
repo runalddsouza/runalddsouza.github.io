@@ -1,0 +1,8 @@
+en:
+  nav:
+    - title: "About"
+      section: about
+    - title: "Gaming"
+      section: gaming
+    - title: "Contact"
+      section: contact
